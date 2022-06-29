@@ -24,7 +24,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 42%;
+  max-width: 450px;
   /* background-color: red; */
 }
 .mainSlider .main-content .content h2 {
@@ -32,6 +32,7 @@ body {
   color: white;
   font-size: 3rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 .mainSlider .main-content .content p {
   text-align: center;
@@ -130,7 +131,7 @@ body {
   position: relative;
   top: 0px;
   animation: moveDown 1s;
-  transition: 0.5s all ease-in-out;
+  transition: 2s all ease-in-out;
   /* animation-delay: 2s; */
 }
 
