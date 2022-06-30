@@ -52,7 +52,7 @@
     line-height: 1.4;
     font-weight: 600;
 }
-.mainSlider .main-content .content button {
+.mainSlider .main-content .content .btn-main {
     margin-top: 2rem;
     z-index: 34;
     background-color: rgb(77, 194, 107);
@@ -84,6 +84,9 @@
     visibility: visible;
     border-width: 0px;
     border-style: none;
+}
+.mainSlider .main-content .content .btn-main:hover {
+    background-color: rgb(48 143 73);
 }
 /* Animation */
 .fade-in-text {
