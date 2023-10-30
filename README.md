@@ -5,4 +5,4 @@
 
 # Demo 
 
-https://abdulrahman14salah.github.io/Verbatoria-head/
+https://abdulrahman14salah.github.io/Verbatoria-Slider/
